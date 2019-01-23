@@ -1,4 +1,4 @@
-# Unit 6 Assignment - Python-APIs-Homework - What's the Weather Like?
+# Unit 6 Assignment - Python-APIs- What's the Weather Like?
 
 ## Background
 
